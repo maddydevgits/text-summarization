@@ -14,4 +14,4 @@ Official Repo of my project Text Summarization using TensorFlow
 Upload this to your Google Colab
 
 # Network
-<a img src="network.png" />
+<img src="network.png" />
